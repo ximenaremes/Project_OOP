@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pachete>
+	<Pachet>
+		<Nume>Pachet Samsung</Nume>
+		<CodIntern>98076</CodIntern>
+		<Producator>Romania</Producator>
+		<Pret>3500</Pret>
+		<Categorie>Telefoane</Categorie>
+	</Pachet>
+	<Pachet>
+		<Nume>iPhone 11 Pro</Nume>
+		<CodIntern>392586</CodIntern>
+		<Producator>Ungaria</Producator>
+		<Pret>3501</Pret>
+		<Categorie>Teloane</Categorie>
+	</Pachet>
+</pachete>

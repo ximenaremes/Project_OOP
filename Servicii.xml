@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<servicii>
+	<Serviciu>
+		<Nume>Consultatii</Nume>
+		<CodIntern>100</CodIntern>
+		<Pret>2200</Pret>
+		<Categorie>Tehnologia Informatiei</Categorie>
+	</Serviciu>
+
+	<Serviciu>
+		<Nume>Reparatii</Nume>
+		<CodIntern>101</CodIntern>
+		<Pret>3200</Pret>
+		<Categorie>Tehnologia Informatiei</Categorie>
+	</Serviciu>
+
+	<Serviciu>
+		<Nume>Verificari</Nume>
+		<CodIntern>102</CodIntern>
+		<Pret>1200</Pret>
+		<Categorie>Tehnologia Informatiei</Categorie>
+	</Serviciu>
+</servicii>
+

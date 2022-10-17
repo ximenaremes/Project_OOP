@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<produse>
+         <Produs>
+                <Nume>Calculator</Nume>
+                <CodIntern>100</CodIntern>
+                <Producator>USA</Producator>
+                <Pret>2200</Pret>
+                <Categorie>Tehnologia Informatiei</Categorie>
+         </Produs>
+		 
+		  <Produs>
+                <Nume>Telefon</Nume>
+                <CodIntern>101</CodIntern>
+                <Producator>China</Producator>
+                <Pret>3200</Pret>
+                <Categorie>Tehnologia Informatiei</Categorie>
+         </Produs>
+		 
+		  <Produs>
+                <Nume>Calculator</Nume>
+                <CodIntern>102</CodIntern>
+                <Producator>Romania</Producator>
+                <Pret>1200</Pret>
+                <Categorie>Tehnologia Informatiei</Categorie>
+         </Produs>
+</produse>
